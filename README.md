@@ -18,7 +18,7 @@ Lock CPU Frequency On-Demand From System Tray On Ryzen 7000 CPU's By Disabling C
 `powercfg -setactive scheme_current`
 
 
-#Usage:
+# Usage:
 
 1. Double click tray icon to enable or disable idles.
 2. When enabled on a current active powerplan it will presist permenantly untill the program is restarted.
