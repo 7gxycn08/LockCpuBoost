@@ -26,4 +26,5 @@ Lock CPU Frequency On-Demand From System Tray On Ryzen 7000 CPU's By Disabling C
 4. To achieve higher locked clock speeds raise CPU base frequency using async BCLK overclocking and use PBO boost limit to lock the frequency from boosting too high.
 5. To get the same results as the picture below on `7950X3D` CPU set BCLK To 102.4 and apply `PBO Boost Limit` 5250 MHZ on all Cores For CCD0 And recommended Ai values For CCD1.
 
+
 ![clocks](https://github.com/7gxycn08/LockCpuBoost/assets/121936658/3349bc15-9688-4031-9ef3-e28fefabf846)
