@@ -1,5 +1,5 @@
 # LockCpuBoost
-Lock CPU Frequency On-Demand From System Tray On Ryzen 7000 CPU's By Disabling CPU Idle States With Powercfg.
+**Lock CPU Frequency On-Demand From System Tray On Ryzen 7000 CPU's By Disabling CPU Idle States With Powercfg.**
 
 
 # Disable idles:
