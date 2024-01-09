@@ -24,7 +24,7 @@
 2. **When enabled on a current active powerplan it will presist permenantly untill the program is restarted.**
 3. **Can be used in conjuction with `Bitsum High Performance PowerPlan` or any other Powerplan which provides better 1% lows for Games.**
 4. **To achieve higher locked clock speeds raise CPU base frequency using async BCLK overclocking and use PBO boost limit to lock the frequency from boosting too high.**
-5. **To get the same results as the picture below on `7950X3D` CPU set BCLK To 102.4 and apply `PBO Boost Limit` 5250 MHZ on all Cores For CCD0 And recommended values For CCD1 based on SP score set by Ai Algorithim on Asus Boards.**
+5. **To get the same results as the picture below on `7950X3D` CPU set BCLK To 102.4 and apply `PBO Boost Limit` 5250 MHZ on all Cores For CCD0 And recommended values For CCD1 based on SP score set by Ai Algorithm on Asus Boards.**
 
 
 
