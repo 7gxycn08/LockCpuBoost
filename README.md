@@ -19,7 +19,7 @@
 
 
 # Usage:
-
+Get [Latest Release](https://github.com/7gxycn08/LockCpuBoost/releases/)
 1. **Double click tray icon to enable or disable idles.**
 2. **When enabled on a current active powerplan it will presist permenantly untill the program is restarted.**
 3. **Can be used in conjuction with `Bitsum High Performance PowerPlan` or any other Powerplan which provides better 1% lows for Games.**
