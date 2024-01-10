@@ -29,3 +29,8 @@ Get [Latest Release](https://github.com/7gxycn08/LockCpuBoost/releases/)
 
 
 ![clocks](https://github.com/7gxycn08/LockCpuBoost/assets/121936658/7fc9fb5e-9f6d-471d-a153-4709069e0a08)
+
+
+# Notice:
+1. **Disabling idles will break cpu usage metrics in programs like msi afterburner and windows task manager It will always report usage at 100%**
+2. **To get proper cpu usage readings use hwinfo or In process lasso click view and untick Show CPU Utility % instead of CPU Time %**
